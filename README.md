@@ -1,2 +1,2 @@
 # media aritimetica
-O programa mostra a média aritmética de qualquer número
+O programa mostra a media aritmetica de qualquer numero
